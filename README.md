@@ -17,3 +17,12 @@ This is a Programming II project that solves a system of two linear equations us
 
 ## Screenshots
 
+### ✅ forTesting.java Output (Console version)
+![forTesting](forTesting.png)
+
+### ✅ intersect.java Output (Intersection Logic)
+![Intersect 1](intersect-1.png)
+![Intersect 2](intersect-2.png)
+
+### ✅ IntersectGUI.java (Swing GUI version)
+![GUI](intersectGUI.png)
