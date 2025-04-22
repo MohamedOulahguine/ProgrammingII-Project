@@ -25,4 +25,4 @@ This is a Programming II project that solves a system of two linear equations us
 ![Intersect 2](intersect-2.png)
 
 ### ✅ IntersectGUI.java (Swing GUI version)
-![GUI](intersectGUI.png)
+![GUI](intersectGUI(1).png)
